@@ -1,6 +1,7 @@
 <h2> Hey there! </h2>
 <img src="./minecraft-transparent.gif">
 
+I'm Luiz, a Computer Science Student from Brasil. Currently graduating at USP. My current interest is Data Science and Machine Learning.
 <!--
 **luizvioto/luizvioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
