@@ -1,9 +1,6 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/luizvioto/count.svg" alt="Visitor's Count" />
-</div>
+<h1 align="center"> Hey there! </h2>
+<h2 align="center"><img src="./minecraft.gif" alt="minecraft gif" width="150px" align="center"></h2>
+<h2 align="center">I'm Luiz</h2>
 
-<h2> Hey there! </h2>
-<img src="./minecraft-transparent.gif" alt="minecraft gif" align="center" width="500px">
 
-I'm Luiz, a Computer Science Student from Brasil. Currently graduating at USP. My current interest is Data Science and Machine Learning.
+A Computer Science Student from Brasil. Currently graduating at USP. My current interest is Data Science and Machine Learning.
