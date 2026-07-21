@@ -1,4 +1,5 @@
-## Hi there 👋
+<h2> Hey there! </h2>
+<img src="./minecraft-transparent.gif">
 
 <!--
 **luizvioto/luizvioto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
